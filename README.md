@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+MILL3ER;TELEGRAM+AND+DISCORD+BOTS" alt="HELLO EVERYONE! I'M - MILL3ER TELEGRAM AND DISCORD BOTS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+MILL3ER;TELEGRAM+AND+DISCORD+BOTS" alt="HELLO EVERYONE! I'M - OXSI-CLOUD TELEGRAM AND DISCORD BOTS" />
 </h1>
 
 Welcome to my GitHub corner! 🚀  
