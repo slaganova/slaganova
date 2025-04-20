@@ -1,26 +1,25 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF8000&background=FFFFFF00&center=true&random=false&width=435&lines=HELLO+EVERYONE!;I'M+-+MILL3ER;TELEGRAM+AND+DISCORD+BOTS" alt="HELLO EVERYONE! I'M - OXSI-CLOUD TELEGRAM AND DISCORD BOTS" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF69B4&background=FFFFFF00&center=true&random=false&width=435&lines=hey+there!;i'm+-+slaganova;coding+bot+girl+vibes" alt="hey there! i'm - slaganova coding bot girl vibes" />
 </h1>
 
-Welcome to my GitHub corner! 🚀  
-Here, I share my journey, projects, and expertise in programming, Kali Linux, and software development.
+Welcome to my digital lair.  
+Clean code, sharp scripts, and zero patience for bugs.
 
-## 🧑‍💻 About Me
+## 🧑‍💻 about me
 
 </div>
 
-- 💻 **Programmer** passionate about crafting clean, maintainable, and efficient code.
-- 🛠 **Code Style Advocate**: No `snake_case`! Only `kebab-case`, `PascalCase`, and `camelCase`.
-- 🐧 **NixOS Enthusiast**: Embracing minimalism, stability, and full control over my system.
-- 🎯 **Project Enthusiast**: Working on personal projects like **UnixCord** in my free time.
-- 🌱 **Always Learning**: Exploring new technologies and improving my skills daily.
-
+- 💅 **dev girl** who codes like she means it — no apologies, no compromises.
+- 🎨 **style freak**: kill the `snake_case`, worship `kebab-case`, `camelCase`, and `PascalCase`.
+- 🐧 **NixOS ride-or-die**: minimal, controlled, and built like a fortress.
+- ⚙ **projects on fire**: currently building **UnixCord** — raw and real-time.
+- 🔭 **constant upgrades**: I don't chase trends, I master tools.
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ tech stack
 
 <p align="center">
     <a href="https://skillicons.dev">
@@ -28,14 +27,14 @@ Here, I share my journey, projects, and expertise in programming, Kali Linux, an
     </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxsiclouds&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="39%">
+  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="39%">
 </p>
 
 ---
 
-_"May your code be clean, your systems stable, and your bugs minimal!"_ ✨
+_“write code like a queen, ship like a menace.”_
 
 </div>
