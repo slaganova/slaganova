@@ -19,11 +19,27 @@ Clean code, sharp scripts, and zero patience for bugs.
 
 <div align="center">
 
-## 🛠️ tech stack
+## 🛠️ Backend Stack
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,mongodb,docker,kubernetes,git,linux,vscode" alt="Development Stack" />
+      <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mongodb,docker,kubernetes,nginx,redis,aws,express,flask,django,graphql" alt="Backend Stack" />
+    </a>
+</p>
+
+## 🛠️ Frontend Stack
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,redux,jest,storybook,figma,webpack,vite,sass,threejs" alt="Frontend Stack" />
+    </a>
+</p>
+
+## 🛠️ Full Stack Tools
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,postman,bash,firebase,gcp,azure,tensorflow" alt="Full Stack Tools" />
     </a>
 </p>
 
