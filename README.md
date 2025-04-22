@@ -1,29 +1,56 @@
-<div align="center" style="background: linear-gradient(to bottom right, #191724 0%, #1f1d2e 100%); padding: 2rem; border-radius: 1rem; border: 1px solid #31748f; box-shadow: 0 0 30px rgba(49, 116, 143, 0.3);">
+<div align="center">
 
-<h1 align="center" style="margin-bottom: 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&weight=800&size=32&duration=4000&pause=1000&color=E0DEF4&background=19172400&center=true&width=500&lines=hey+there!;i'm+slaganova;code+witch+%F0%9F%91%BB%F0%9F%92%8E" alt="Typing SVG" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF69B4&background=FFFFFF00&center=true&random=false&width=435&lines=hey+there!;i'm+-+slaganova;coding+bot+girl+vibes" alt="hey there! i'm - slaganova coding bot girl vibes" />
 </h1>
 
-<p style="color: #e0def4; font-size: 1.1rem; max-width: 70%; margin: 1rem auto;">
-    <span style="color: #9ccfd8;">//</span> Welcome to my neon-lit code den<br>
-    <span style="color: #9ccfd8;">//</span> Where bugs fear to tread and scripts never sleep
-</p>
+Welcome to my digital lair.  
+Clean code, sharp scripts, and zero patience for bugs.
 
-![Rosé Pine Palette](https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/palette.svg)
+## 🧑‍💻 about me
 
 </div>
 
+- 💅 **dev girl** who codes like she means it — no apologies, no compromises.
+- 🎨 **style freak**: kill the `snake_case`, worship `kebab-case`, `camelCase`, and `PascalCase`.
+- 🐧 **NixOS ride-or-die**: minimal, controlled, and built like a fortress.
+- ⚙ **projects on fire**: currently building **UnixCord** — raw and real-time.
+- 🔭 **constant upgrades**: I don't chase trends, I master tools.
+
+<div align="center">
+
+## 🛠️ Backend Stack
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mongodb,docker,kubernetes,nginx,redis,aws,express,flask,django,graphql" alt="Backend Stack" />
+    </a>
+</p>
+
+## 🛠️ Frontend Stack
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,redux,jest,storybook,figma,webpack,vite,sass,threejs" alt="Frontend Stack" />
+    </a>
+</p>
+
+## 🛠️ Full Stack Tools
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,postman,bash,firebase,gcp,azure,tensorflow" alt="Full Stack Tools" />
+    </a>
+</p>
+
+## 📊 github stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="39%">
+</p>
+
 ---
 
-<div align="center" style="background: #191724; padding: 2rem; border-radius: 1rem; margin-top: 1rem; border: 1px solid #eb6f92;">
+_“write code like a queen, ship like a menace.”_
 
-## <img src="https://raw.githubusercontent.com/rose-pine/rose-pine-theme/main/assets/icon.png" width="24" style="vertical-align: middle;"> about me
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; text-align: left; color: #e0def4;">
-
-```diff
-+ 💅 **cyberfeminist coder** — elegance in every line, zero tolerance for tech debt
-+ 🎨 **aesthetic extremist** — `--rose-pine` > your boring color schemes
-+ 🐧 **NixOS ascetic** — reproducible builds or bust
-+ ⚙ **building UnixCord** — terminal-first chat with WebSocket sorcery
-+ 🔭 **currently obsessing over** — Rust, CRDTs, and compiler design
+</div>
