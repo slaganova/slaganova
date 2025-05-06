@@ -100,4 +100,40 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(24, 23, 23, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
   </a>
   <a href="https://discord.com/users/1247181304194400269" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(88, 101, 242, 0.7)'" onmouseout="this.style.transform
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(88, 101, 242, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+  </a>
+  <a href="https://t.me/nowerix" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(38, 165, 228, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+  </a>
+  <a href="mailto:root@wexoria.ru" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(209, 72, 54, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+  </a>
+</div>
+
+<!-- Кастомный футер -->
+<div align="center" style="margin-top: 40px; color: #7F00FF; font-size: 12px;">
+  <p>Made with ❤️ and <span style="color: #00ccff;">#define</span> magic</p>
+  <p>Last update: 2023-11-15</p>
+  <p>✨ May the code be with you ✨</p>
+</div>
+
+<!-- CSS анимации -->
+<style>
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #7F00FF; }
+  }
+  
+  .hover-grow {
+    transition: all 0.3s ease;
+  }
+  
+  .hover-grow:hover {
+    transform: scale(1.05);
+  }
+</style>
