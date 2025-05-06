@@ -1,56 +1,58 @@
 <div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=800&color=FF69B4&background=FFFFFF00&center=true&random=false&width=435&lines=hey+there!;i'm+-+slaganova;coding+bot+girl+vibes" alt="hey there! i'm - slaganova coding bot girl vibes" />
-</h1>
-
-Welcome to my digital lair.  
-Clean code, sharp scripts, and zero patience for bugs.
-
-## 🧑‍💻 about me
+# Hex (SLAGANOVA)
 
 </div>
 
-- 💅 **dev girl** who codes like she means it — no apologies, no compromises.
-- 🎨 **style freak**: kill the `snake_case`, worship `kebab-case`, `camelCase`, and `PascalCase`.
-- 🐧 **NixOS ride-or-die**: minimal, controlled, and built like a fortress.
-- ⚙ **projects on fire**: currently building **UnixCord** — raw and real-time.
-- 🔭 **constant upgrades**: I don't chase trends, I master tools.
+<table align="center" border="0" style="border: none;">
+  <tr>
+    <th colspan="2" style="text-align: center;">About me</th>
+  </tr>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <ul>
+        <li>i code (sometimes)</li>
+        <li>i got more private repos than braincells</li>
+        <li>🐈</li>
+      </ul>
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100"/>
+    </td>
+  </tr>
+</table>
 
-<div align="center">
-
-## 🛠️ Backend Stack
-
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,nodejs,postgres,mongodb,docker,kubernetes,nginx,redis,aws,express,flask,django,graphql" alt="Backend Stack" />
-    </a>
-</p>
-
-## 🛠️ Frontend Stack
-
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,redux,jest,storybook,figma,webpack,vite,sass,threejs" alt="Frontend Stack" />
-    </a>
-</p>
-
-## 🛠️ Full Stack Tools
 
 <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,linux,vscode,github,postman,bash,firebase,gcp,azure,tensorflow" alt="Full Stack Tools" />
-    </a>
+  <a href="https://golang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
+  <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" /></a>
+  <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg" /></a>
 </p>
 
-## 📊 github stats
+<hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="39%">
+  <a href="https://www.microsoft.com/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" /></a>
+  <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" /></a>
+  <a href="https://www.debian.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg" /></a>
+  <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /></a><br>
+  <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
+  <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
 </p>
 
----
+<hr>
 
-_“write code like a queen, ship like a menace.”_
+<p align="center">
+  <a href="https://github.com/udpcat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
+  <a href="https://discord.com/users/334029295443902464"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
+  <a href="https://t.me/udp_cat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="mailto:root@femboy.cat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
+</p>
 
-</div>
