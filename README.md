@@ -24,13 +24,13 @@
 
 <p align="center" style="margin: 20px 0;">
   <!-- Languages -->
-  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" /></a><br>
-  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" /></a><br>
   <a href="https://golang.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++3.svg" /></a>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSharp/csharp3.svg" /></a>
   <a href="https://www.python.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" /></a><br>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi2.svg" /></a>
+  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Flask/flask2.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" /></a>
   <a href="https://nodejs.org/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs3.svg" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg" /></a>
