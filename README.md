@@ -95,4 +95,9 @@
 
 <!-- Контакты с анимированными кнопками -->
 <h2 align="center" style="color: #7F00FF; text-shadow: 0 0 10px rgba(127, 0, 255, 0.5);">📫 Connect With Me</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+  <a href="https://github.com/slaganova" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(24, 23, 23, 0.7)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+  </a>
+  <a href="https://discord.com/users/1247181304194400269" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 5px; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 0 15px rgba(88, 101, 242, 0.7)'" onmouseout="this.style.transform
