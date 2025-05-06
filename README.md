@@ -10,20 +10,25 @@
 </h1>
 </div>
 
-<table align="center" border="0" style="border: none; border-collapse: collapse;">
+<table align="center" border="0" style="border: none; border-collapse: collapse; font-family: 'Segoe UI', Arial, sans-serif; max-width: 500px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);">
   <tr>
-    <th colspan="2" style="text-align: center; padding-bottom: 10px;">About me</th>
+    <th colspan="2" style="text-align: center; padding: 20px 0 10px; font-size: 24px; color: #2c3e50; font-weight: 600;">About me</th>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: left; padding-right: 20px;">
-      <ul style="margin-top: 0;">
-        <li>ɪ ᴄᴏᴅᴇ (sᴏᴍᴇᴛɪᴍᴇs)</li>
-        <li>ɪ ɢᴏᴛ ᴍᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏs ᴛʜᴀɴ ʙʀᴀɪɴᴄᴇʟʟs</li>
-        <li>🐈</li>
+    <td style="vertical-align: middle; text-align: left; padding: 20px 30px;">
+      <ul style="margin: 0; padding-left: 20px; list-style-type: none;">
+        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">ɪ ᴄᴏᴅᴇ (sᴏᴍᴇᴛɪᴍᴇs)</li>
+        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">ɪ ɢᴏᴛ ᴍᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ʀᴇᴘᴏs ᴛʜᴀɴ ʙʀᴀɪɴᴄᴇʟʟs</li>
+        <li style="padding: 8px 0; font-size: 16px; color: #34495e;">🐈 <span style="vertical-align: middle;">cat enthusiast</span></li>
       </ul>
     </td>
-    <td style="vertical-align: middle;">
-      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100" style="border-radius: 50%;"/>
+    <td style="vertical-align: middle; padding-right: 30px;">
+      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center; padding: 15px 0; font-size: 14px; color: #7f8c8d; border-top: 1px solid #e0e0e0;">
+      ✨ Made with love and code ✨
     </td>
   </tr>
 </table>
