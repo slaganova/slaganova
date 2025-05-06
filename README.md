@@ -45,6 +45,8 @@
   <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /></a><br>
   <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
   <a href="https://www.nginx.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NGINX/nginx3.svg" /></a>
+  <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" /></a>
+
   <a href="https://code.visualstudio.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg" /></a>
 </p>
 
