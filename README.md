@@ -67,4 +67,20 @@
   
   <!-- Инструменты -->
   <div style="background: rgba(16, 16, 32, 0.6); padding: 10px 15px; border-radius: 10px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(127, 0, 255, 0.4)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-    <h3 style="margin: 5px 0;
+    <h3 style="margin: 5px 0; color: #7F00FF;">Tools</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,ps,flstudio,figma,vscode,linux,git" alt="Tools" />
+    </div>
+  </div>
+</div>
+
+<!-- Анимированная статистика GitHub -->
+<h2 align="center" style="color: #7F00FF; text-shadow: 0 0 10px rgba(127, 0, 255, 0.5);">📊 GitHub Stats</h2>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=slaganova&show_icons=true&theme=radical&count_private=true&include_all_commits=true&bg_color=0d1117&hide_border=true" alt="slaganova's GitHub stats" style="border-radius: 10px; margin: 10px; box-shadow: 0 5px 15px rgba(127, 0, 255, 0.3);"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slaganova&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" alt="Top Languages" style="border-radius: 10px; margin: 10px; box-shadow: 0 5px 15px rgba(127, 0, 255, 0.3);"/>
+</div>
+
+<!-- Streak статистика с анимацией -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=slaganova&theme=radical&hide_border=true&background=0D1117&ring=7F00FF&fire=7F00
