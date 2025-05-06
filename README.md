@@ -26,10 +26,6 @@
       <img src="https://i.imgur.com/q7g0WMg.jpeg" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
     </td>
   </tr>
-  <tr>
-    <th colspan="2" style="text-align: center; padding: 20px 0 10px; font-size: 24px; color: #2c3e50; font-weight: 600;">About me</th>
-          ✨ Made with love and code ✨
-  </tr>
 </table>
 
 <p align="center" style="margin: 20px 0;">
