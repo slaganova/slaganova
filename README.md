@@ -50,9 +50,9 @@
 <hr>
 
 <p align="center">
-  <a href="https://github.com/udpcat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
-  <a href="https://discord.com/users/334029295443902464"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
-  <a href="https://t.me/udp_cat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
-  <a href="mailto:root@femboy.cat"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
+  <a href="https://github.com/slaganova"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
+  <a href="https://discord.com/users/1247181304194400269"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
+  <a href="https://t.me/nowerix"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
+  <a href="mailto:root@wexoria.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
 </p>
 
