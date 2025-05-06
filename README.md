@@ -12,4 +12,18 @@
 
 <!-- Статусная строка с анимацией -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F00FF&center=true&vCenter=true&width=435&lines=Full-stack+Alchemist;Open+Source+Enthusiast;Professional+Cat+Petter" alt="Typing SVG" />
+</p>
+
+</div>
+
+<!-- Анимированная карточка "Обо мне" -->
+<div align="center" style="margin: 20px 0; perspective: 1000px;">
+  <div style="background: rgba(16, 16, 32, 0.8); border-radius: 15px; padding: 20px; max-width: 600px; box-shadow: 0 10px 30px rgba(127, 0, 255, 0.3); transform-style: preserve-3d; transition: all 0.5s ease;">
+    <table align="center" border="0" style="border: none; border-collapse: collapse;">
+      <tr>
+        <td style="vertical-align: top; text-align: left; padding-right: 20px;">
+          <ul style="margin-top: 0; list-style-type: none; padding-left: 10px;">
+            <li>🔭 <b>Currently working on:</b> Secret project #42</li>
+            <li>🌱 <b>Learning:</b> Quantum computing basics</li>
+            <li>💬 <b>Ask me about
