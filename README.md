@@ -27,9 +27,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="text-align: center; padding: 15px 0; font-size: 14px; color: #7f8c8d; border-top: 1px solid #e0e0e0;">
-      ✨ Made with love and code ✨
-    </td>
+    <th colspan="2" style="text-align: center; padding: 20px 0 10px; font-size: 24px; color: #2c3e50; font-weight: 600;">About me</th>
+          ✨ Made with love and code ✨
   </tr>
 </table>
 
