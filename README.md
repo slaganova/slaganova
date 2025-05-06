@@ -26,4 +26,19 @@
           <ul style="margin-top: 0; list-style-type: none; padding-left: 10px;">
             <li>🔭 <b>Currently working on:</b> Secret project #42</li>
             <li>🌱 <b>Learning:</b> Quantum computing basics</li>
-            <li>💬 <b>Ask me about
+            <li>💬 <b>Ask me about:</b> Linux, networking, or cats</li>
+            <li>⚡ <b>Fun fact:</b> I have more private repos than brain cells</li>
+            <li>🐈 <b>Cat count:</b> 3 (and counting)</li>
+          </ul>
+        </td>
+        <td style="vertical-align: middle;">
+          <img src="https://i.imgur.com/q7g0WMg.jpeg" width="120" style="border-radius: 50%; border: 3px solid #7F00FF; box-shadow: 0 0 20px rgba(127, 0, 255, 0.5); transition: transform 0.3s ease;" onmouseover="this.style.transform='rotateY(20deg)'" onmouseout="this.style.transform='rotateY(0)'"/>
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
+
+<!-- Анимированные разделители -->
+<svg viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg" style="margin: 30px 0; fill: #7F00FF; opacity: 0.7;">
+  <path d="M0,0V46.29c47.79,22.2,103.59,32.17,158,28,70.36-5.37,136.33-33.31,206.8-37.5C438.64,32.43,512.34,53.67,583,72.05c69.27,18,138.3,24.88,209.
