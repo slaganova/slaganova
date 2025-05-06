@@ -4,28 +4,20 @@
 
 </div>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse; max-width: 500px; font-family: 'Segoe UI', Arial, sans-serif; margin: 20px auto; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-radius: 12px; overflow: hidden; background: linear-gradient(135deg, #f5f7fa 0%, #e4e8eb 100%);">
+<table align="center" border="0" style="border: none; border-collapse: collapse;">
   <tr>
-    <th colspan="2" style="text-align: center; padding: 16px; font-size: 1.2em; color: #2d3748; background: rgba(255,255,255,0.7); border-bottom: 1px solid rgba(0,0,0,0.05);">
-      About me
-    </th>
+    <th colspan="2" style="text-align: center; padding-bottom: 10px;">About me</th>
   </tr>
   <tr>
-    <td style="vertical-align: top; text-align: left; padding: 20px; width: 60%;">
-      <ul style="margin: 0; padding-left: 20px; color: #4a5568; font-size: 0.95em; line-height: 1.6;">
-        <li style="margin-bottom: 8px; position: relative; list-style-type: none; padding-left: 20px;">
-          <span style="position: absolute; left: 0;">•</span> i code (sometimes)
-        </li>
-        <li style="margin-bottom: 8px; position: relative; list-style-type: none; padding-left: 20px;">
-          <span style="position: absolute; left: 0;">•</span> i got more private repos than braincells
-        </li>
-        <li style="position: relative; list-style-type: none; padding-left: 20px;">
-          <span style="position: absolute; left: 0;">•</span> 🐈
-        </li>
+    <td style="vertical-align: top; text-align: left; padding-right: 20px;">
+      <ul style="margin-top: 0;">
+        <li>i code (sometimes)</li>
+        <li>i got more private repos than braincells</li>
+        <li>🐈</li>
       </ul>
     </td>
-    <td style="vertical-align: middle; text-align: center; padding: 20px; width: 40%; border-left: 1px solid rgba(0,0,0,0.05);">
-      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100" style="border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;"/>
+    <td style="vertical-align: middle;">
+      <img src="https://i.imgur.com/q7g0WMg.jpeg" width="100" style="border-radius: 50%;"/>
     </td>
   </tr>
 </table>
