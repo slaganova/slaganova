@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ccff); -webkit-background-clip: text; background-clip: text; color: transparent; display: inline-block;">
-    SLAGANOVA_DEV
+    🖤 slaganova_dev
   </span>
   <a href="https://">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
