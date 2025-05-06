@@ -23,7 +23,7 @@
       </ul>
     </td>
     <td style="vertical-align: middle; padding-right: 30px;">
-      <img src="https://i.pinimg.com/736x/a6/19/d5/a619d54c62596088d7fddf7edf46b700.jpg" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
+      <img src="https://i.pinimg.com/736x/c0/7f/d1/c07fd1cabd8d1144a7365dc4ed316bd7.jpg" width="120" style="border-radius: 50%; border: 4px solid #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1);"/>
     </td>
   </tr>
 </table>
