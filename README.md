@@ -62,11 +62,3 @@
 </p>
 
 <hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 20px 0;">
-
-<p align="center" style="margin: 20px 0;">
-  <!-- Social -->
-  <a href="https://github.com/slaganova"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" /></a>
-  <a href="https://discord.com/users/1247181304194400269"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord3.svg" /></a>
-  <a href="https://t.me/m1st1qu3"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram3.svg" /></a>
-  <a href="mailto:admin@wexoria.ru"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg" /></a>
-</p>
