@@ -7,3 +7,32 @@
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00CCFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 </h1>
+
+<div align="center">
+  <a href="https://">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
+  </a>
+  <a href="https://ko-fi.com/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Kofi/kofi2.svg" align="center" style="vertical-align: middle; margin-right: 10px;"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Buymeacoffee/buymeacoffee2.svg" align="center" style="vertical-align: middle;"/>
+  </a>
+</div>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=slaganova&style=flat-square&color=00ccff)
+![Followers](https://img.shields.io/github/followers/slaganova?label=Followers&style=social)
+![Repositories](https://img.shields.io/badge/Repositories-30+-blue?style=flat-square)
+![Stars](https://img.shields.io/github/stars/slaganova?style=social)
+
+</div>
+
+<br>
+
+## 🎯 About Me
