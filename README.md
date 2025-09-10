@@ -64,5 +64,8 @@
 <hr style="border: 0; height: 1px; background: #333; background-image: linear-gradient(to right, #ccc, #333, #ccc); margin: 20px 0;">
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slaganova&theme=radical" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slaganova&theme=radical" alt=""/>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=slaganova&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/slaganova)
   <img src="https://github-readme-stats.vercel.app/api?username=slaganova&show_icons=true&theme=radical" width="35%">
 </p>
