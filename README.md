@@ -49,11 +49,8 @@
 <p align="center" style="margin: 20px 0;">
   <!-- OS & Tools -->
   <a href="https://www.microsoft.com/windows"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg" /></a>
-  <a href="https://www.android.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg" /></a>
-  <a href="https://www.debian.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Debian/debian3.svg" /></a>
   <a href="https://www.archlinux.org"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch3.svg" /></a>
   <a href="https://ubuntu.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg" /></a><br>
-  <a href="https://www.adobe.com/ru/products/photoshop.html"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop2.svg" /></a>
   <a href="https://www.image-line.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FLStudio/flstudio2.svg" /></a>
   <a href="https://www.docker.com/"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker3.svg" /></a>
   <a href="https://www.cloudflare.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Cloudflare/cloudflare3.svg" /></a>
