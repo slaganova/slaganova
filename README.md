@@ -66,5 +66,5 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slaganova&theme=radical" alt=""/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slaganova&theme=radical" alt=""/>
-  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&show_icons=true&theme=radical" width="35%">
+  <img src="https://github-readme-stats.vercel.app/api?username=slaganova&show_icons=true&theme=radical" alt=""/>
 </p>
