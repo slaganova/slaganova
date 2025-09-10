@@ -25,3 +25,24 @@
 <br>
 
 ## 🎯 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Slaganov"
+        self.role = "Full-Stack Developer"
+        self.passion = "Creating innovative solutions"
+        self.skills = {
+            "backend": ["Go", "Python", "Node.js", "Java", "C/C++", "C#"],
+            "frontend": ["JavaScript", "HTML5", "CSS3", "React", "Vue"],
+            "devops": ["Docker", "NGINX", "Cloudflare", "Linux"],
+            "tools": ["VS Code", "Photoshop", "FL Studio"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB"]
+        }
+    
+    def __str__(self):
+        return f"🚀 Passionate {self.role} with love for clean code and innovation"
+
+me = Developer()
+print(me)
+```
